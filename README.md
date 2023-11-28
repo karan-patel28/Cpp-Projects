@@ -1,6 +1,4 @@
-C++ Projects Portfolio
-Overview
-  This repository contains a diverse collection of projects I've built to enhance my skills in C++ programming. Each project tackles unique challenges and concepts, ranging from fundamental programming principles to advanced C++ features. These projects collectively demonstrate my proficiency in various aspects of C++ development, including object-oriented programming, data         structures, algorithms, GUI development, and more.
+This repository contains a diverse collection of projects I've built to enhance my skills in C++ programming. Each project tackles unique challenges and concepts, ranging from fundamental programming principles to advanced C++ features. These projects collectively demonstrate my proficiency in various aspects of C++ development, including object-oriented programming, data         structures, algorithms, GUI development, and more.
 
 Projects
 1. Simple Calculator
